@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HVAC.Web", "HVAC.Web\HVAC.Web.csproj", "{E9502C58-434E-415C-A0C5-08C898AD471F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HVAC.Domain", "HVAC.Domain\HVAC.Domain.csproj", "{002ACAC6-A305-4C49-AD1D-32FA249F0D0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HVAC.Application", "HVAC.Application\HVAC.Application.csproj", "{382A1A4F-A579-4128-8143-DFD7B8205D52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HVAC.Infrastructure", "HVAC.Infrastructure\HVAC.Infrastructure.csproj", "{326417B6-3EF8-460A-B805-9AC94ED55E55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9502C58-434E-415C-A0C5-08C898AD471F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9502C58-434E-415C-A0C5-08C898AD471F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9502C58-434E-415C-A0C5-08C898AD471F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9502C58-434E-415C-A0C5-08C898AD471F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{002ACAC6-A305-4C49-AD1D-32FA249F0D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{002ACAC6-A305-4C49-AD1D-32FA249F0D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{002ACAC6-A305-4C49-AD1D-32FA249F0D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{002ACAC6-A305-4C49-AD1D-32FA249F0D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{382A1A4F-A579-4128-8143-DFD7B8205D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{382A1A4F-A579-4128-8143-DFD7B8205D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{382A1A4F-A579-4128-8143-DFD7B8205D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{382A1A4F-A579-4128-8143-DFD7B8205D52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{326417B6-3EF8-460A-B805-9AC94ED55E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{326417B6-3EF8-460A-B805-9AC94ED55E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{326417B6-3EF8-460A-B805-9AC94ED55E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{326417B6-3EF8-460A-B805-9AC94ED55E55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
